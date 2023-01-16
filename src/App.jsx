@@ -1,4 +1,4 @@
-import Icon from '@mdi/react'
+import {Icon} from '@mdi/react'
 import styled from 'styled-components'
 import { mdiBugOutline  } from '@mdi/js';
 
